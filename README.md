@@ -10,7 +10,8 @@ Soy Michael Bryan Estrada Santana, estudiante de Ciencias de la Computación en 
 
 ## Información Personal
 * **Nombre:** Michael Bryan Estrada Santana
-* **Ocupación:** Estudiante de Computación en ESPOL | Pasante de Business Intelligence en Vitapro
+* **Ocupación:**
+  Estudiante de Computación en ESPOL | Pasante de Business Intelligence en Vitapro
 * **Sitio web:** [bryanestrada003.github.io/curriculum](https://bryanestrada003.github.io/curriculum/)
 
 ## Proyectos
