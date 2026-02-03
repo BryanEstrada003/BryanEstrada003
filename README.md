@@ -1,47 +1,92 @@
-# Mi Sitio Personal
+# Hi there, I'm Michael Estrada! 👋
+### Computer Vision Researcher | Data Engineer | Open Source Advocate
 
-## Bienvenida
-Soy Michael Bryan Estrada Santana, estudiante de Ciencias de la Computación en ESPOL desde 2021. Soy miembro activo del club de software libre Kokoa y del Grupo de Investigación en Tecnologías Web y Móviles, Ciencia de Datos (TAWS). Apasionado por la tecnología, he desarrollado habilidades en Desarrollo de Software, Inteligencia Artificial y UI/UX. He participado en el Pyweekend 9ª Edición Hackathon, donde mi equipo ganó el primer lugar, y en el Datathon del club TAWS, obteniendo el premio a "Best Storytelling". Soy experto en Python, Java y MySQL, y aplico técnicas de Machine Learning en análisis de datos. Siempre busco aprender y trabajar en proyectos desafiantes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maiestrada/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=github)](https://bryanestrada003.github.io/curriculum/) -->
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mbestrad@espol.edu.ec)
 
-## Contenido
-* [Información Personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-* [Habilidades](#habilidades)
-* [Experiencia](#experiencia)
-* [Contacto](#contacto)
+---
 
-## Información Personal
-* **Nombre:** Michael Bryan Estrada Santana
-* **Ocupación:**
-  Estudiante de Computación en ESPOL | Pasante de Business Intelligence en Vitapro
-* **Sitio web:** [bryanestrada003.github.io/curriculum](https://bryanestrada003.github.io/curriculum/)
+## 👨‍💻 About Me
 
-## Proyectos
-* **[PsychoPy](https://github.com/BryanEstrada003/PsychoPy-Project.git):** Proyecto enfocado en mejorar el proceso de asignación de consultores a proyectos.
-* **[Ride!](https://www.espol.edu.ec/es/noticias/ride-app-que-plantea-el-uso-de-reconocimiento-facial-para-prestamo-de-bicicletas-gana):** Aplicación que utiliza reconocimiento facial para el préstamo de bicicletas, galardonada en la competencia organizada por ESPOL.
+I am a final-year **Computer Science student at ESPOL** (Ecuador) with a deep passion for the intersection of data and intelligent systems. My journey balances rigorous academic research with practical, real-world deployment.
 
-## Intereses
-* Visión por Computadora
-* Desarrollo de Software
-* UI/UX
-* Escritura, Literatura y Arte
-* Ciencia de Datos
+Currently, I work as a **Research Assistant at CIDIS-ESPOL**, developing Computer Vision solutions to automate food quality assessment. Previously, I optimized ETL pipelines and automated SAP processes as a **Business Intelligence Intern**.
 
-## Habilidades
-* **Lenguajes de Programación:** Python, Java, MySQL, C, Rust
-* **Herramientas y Tecnologías:** Machine Learning, Herramientas de visualización de datos, Desarrollo web, Figma
-* **Habilidades Blandas:** Trabajo en equipo, Resolución de problemas, Pensamiento crítico
+I am also the **President of the Kokoa Free Software Club**, where I advocate for open source, Linux, and knowledge sharing.
 
-## Experiencia
-* **Pasante de Business Intelligence en Vitapro:**
-  - Análisis y visualización de datos para apoyar la toma de decisiones empresariales.
-  - Desarrollo de dashboards interactivos para monitoreo de KPIs.
-* **Participación en Competencias:**
-  - Pyweekend 9ª Edición Hackathon: Primer lugar.
-  - Datathon del club TAWS: Premio a "Best Storytelling".
+* 🔭 **I’m currently working on:** Hybrid Deep Learning architectures (CNN + KAN) for agriculture.
+* 🌱 **I’m currently learning:** High-Performance Computing (HPC) & Rust.
+* 🏆 **Achievements:**
+    * 🥇 **1st Place:** Pyweekend Hackathon (9th Ed.)
+    * 🗣️ **Best Storytelling:** TAWS Club Datathon
+    * 🥉 **3rd Place:** NASA Space Apps Challenge (Guayaquil)
 
-## Contacto
-* **Correo Electrónico:** [mbestrad@espol.edu.ec](mailto:mbestrad@espol.edu.ec)
-* **LinkedIn:** [maiestrada](https://www.linkedin.com/in/maiestrada/)
-* **GitHub:** [github.com/BryanEstrada003](https://github.com/BryanEstrada003)
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+
+### AI & Data Engineering
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 💼 Experience Highlight
+
+| Role | Organization | Focus |
+| :--- | :--- | :--- |
+| **Research Assistant** | 🔬 **CIDIS - ESPOL** | Developing Computer Vision algorithms for defect detection in food; curating datasets and publishing academic research. |
+| **Business Intelligence Intern** | 🦐 **Vitapro** | Automated SAP processes using Python, managed ETL pipelines, and created dashboards using Google BigQuery. |
+| **President** | 🐧 **Kokoa Free Software Club** | Leading workshops on Linux/Virtualization and organizing tech events like CLI Week. |
+| **UI Designer Intern** | 🎨 **ZEDE del Litoral** | Prototyped internal management systems (Low to High fidelity) to improve operational efficiency. |
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [CotVision (Upcoming)](https://github.com/yourusername/cotvision)
+*An intelligent diagnosis system for cotton leaf diseases.*
+* **Tech:** Python, PyTorch, React, FastAPI.
+* **Innovation:** Uses a hybrid **SBTAYLOR-KAN** architecture (94.8% accuracy) and Grad-CAM for interpretability.
+
+### 🚲 [Ride!](https://www.espol.edu.ec/es/noticias/ride-app-que-plantea-el-uso-de-reconocimiento-facial-para-prestamo-de-bicicletas-gana)
+*Facial recognition system for bike rentals.*
+* **Recognition:** Winner of the ESPOL innovation competition.
+* **Focus:** Computer Vision applied to campus mobility.
+
+### 🧩 [PsychoPy](https://github.com/BryanEstrada003/PsychoPy-Project)
+*Consultant allocation optimization.*
+* **Focus:** Algorithmic logic to improve project management efficiency.
+
+---
+
+## ⚡ Stats
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanEstrada003&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEstrada003&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+### 📬 Let's Connect!
+
+I am always open to discussing **Computer Vision research**, **Data Engineering challenges**, or **Open Source initiatives**.
+
+* 📧 **Personal:** [micbryestrada2003@gmail.com](mailto:micbryestrada2003@gmail.com)
+* 🏛️ **Academic:** [mbestrad@espol.edu.ec](mailto:mbestrad@espol.edu.ec)
