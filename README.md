@@ -75,12 +75,12 @@ I am also the **President of the Kokoa Free Software Club**, where I advocate fo
 *Consultant allocation optimization.*
 * **Focus:** Algorithmic logic to improve project management efficiency.
 
----
+<!-- ---
 
 ## ⚡ Stats
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanEstrada003&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEstrada003&layout=compact&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEstrada003&layout=compact&theme=dracula&hide_border=true) -->
 
 ---
 
