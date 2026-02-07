@@ -54,8 +54,8 @@ I am also the **President of the Kokoa Free Software Club**, where I advocate fo
 | Role | Organization | Focus |
 | :--- | :--- | :--- |
 | **Research Assistant** | 🔬 **CIDIS - ESPOL** | Developing Computer Vision algorithms for defect detection in food; curating datasets and publishing academic research. |
-| **Business Intelligence Intern** | 🦐 **Vitapro** | Automated SAP processes using Python, managed ETL pipelines, and created dashboards using Google BigQuery. |
 | **President** | 🐧 **Kokoa Free Software Club** | Leading workshops on Linux/Virtualization and organizing tech events like CLI Week. |
+| **Business Intelligence Intern** | 🦐 **Vitapro** | Automated SAP processes using Python, managed ETL pipelines, and created dashboards using Google BigQuery. |
 | **UI Designer Intern** | 🎨 **ZEDE del Litoral** | Prototyped internal management systems (Low to High fidelity) to improve operational efficiency. |
 
 ---
