@@ -46,6 +46,9 @@ I am also the **President of the Kokoa Free Software Club**, where I advocate fo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239CAD?style=for-the-badge&logo=typst&logoColor=white)
+
 
 ---
 
