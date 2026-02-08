@@ -81,9 +81,9 @@ I am also the **President of the Kokoa Free Software Club**, where I advocate fo
 
 ---
 
-# 📊 Stats:
+### 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bryanestrada003&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanestrada003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.ver[](url)cel.app/api/top-langs/?username=bryanestrada003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ---
 
