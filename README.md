@@ -65,7 +65,7 @@ I am also the **President of the Kokoa Free Software Club**, where I advocate fo
 
 ## 🚀 Featured Projects
 
-### 🧠 [CotVision](https://github.com/yourusername/cotvision)
+### 🧠 [CotVision](https://github.com/BryanEstrada003/cotton-leaf-defect-classification)
 *An intelligent diagnosis system for cotton leaf diseases.*
 * **Tech:** Python, PyTorch, React, FastAPI.
 * **Innovation:** Uses a hybrid **SBTAYLOR-KAN** architecture (94.8% accuracy) and Grad-CAM for interpretability.
